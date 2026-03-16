@@ -2,7 +2,7 @@
 Hi I'm Priyadarshini 
 Aspiring Software Developer!
 Current Learning JAVA, Python, C, C++ and Web Development In Indian Institute of Information Technology, Dharwad B.Tech CSE | BATCH 2025-2029
-Project - Customer Survey Analysis, Simple Calculator. 
+Project - Customer Survey Analysis, Simple Calculator, weather application 
 
 
 ## 🌐 Socials:
